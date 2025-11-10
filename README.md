@@ -13,11 +13,9 @@ gồm website và ứng dụng Android kết nối chung qua một backend API (
 
 ## Các repository con
 
-| Thành phần | Mô tả | Link |
-|-------------|--------|------|
-| Backend (API) | Xử lý dữ liệu, kết nối PostgreSQL, cung cấp API REST | [myanshop-backend](<link-repo-backend>) |
-| Web (Frontend) | Giao diện website bán hàng (React / Next.js) | [myanshop-web](<link-repo-web>) |
-| Android | Ứng dụng di động viết bằng Android Studio (Kotlin/Java) | [myanshop-android](<link-repo-android>) |
+| 🧩 Backend (API) | Xử lý dữ liệu, kết nối PostgreSQL, cung cấp API REST | [myanshop-backend](https://github.com/Munbetis/myanshop-backend) |
+| 🌐 Web (Frontend) | Giao diện website bán hàng (React / Next.js) | [myanshop-web](https://github.com/Munbetis/myanshop-web) |
+| 📱 Android | Ứng dụng di động viết bằng Android Studio (Kotlin/Java) | [myanshop-android](https://github.com/Munbetis/myanshop-android) |
 
 ---
 
