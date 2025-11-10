@@ -22,8 +22,8 @@ gồm website và ứng dụng Android kết nối chung qua một backend API (
 
 | Thành viên | Vai trò | Nhiệm vụ chính |
 |-------------|----------|----------------|
-| **Lương Quốc Khánh** | Leader | Quản lý tổng thể dự án, hỗ trợ mọi mảng (backend, web, mobile, database). |
-| **Lê Minh Trâm Anh** | Co-Leader | Phụ trách phần **Web** (giao diện, chức năng, test API), **kết nối Web ↔ Mobile** |
+| **Lê Minh Trâm Anh** | Leader | Phụ trách phần **Web** (giao diện, chức năng, test API), **kết nối Web ↔ Mobile** |
+| **Lương Quốc Khánh** | Co-Leader | Quản lý tổng thể dự án, hỗ trợ mọi mảng (backend, web, mobile, database). |
 | **Lâm Bảo Ngọc** | Database & Report | Thiết kế **CSDL**, viết **SQL**, quản lý dữ liệu và thực hiện **báo cáo** tổng hợp. |
 | **Nguyễn Quang Trường** | Database | Phụ trách **tạo và seed dữ liệu**, kiểm tra liên kết giữa các bảng trong CSDL.|
 | **Nguyễn Hà Đăng Khoa** | Database | Xây dựng, tối ưu và kiểm thử các **truy vấn SQL**, hỗ trợ thiết kế bảng. |
